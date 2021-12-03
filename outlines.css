@@ -127,6 +127,6 @@ aside::before {
   content: "aside";
 }
 
-nav::before {
+nav::before { 
   content: "nav";
 }
